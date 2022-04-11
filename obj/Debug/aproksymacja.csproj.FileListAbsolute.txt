@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\aproksymacja\bin\Debug\aproksymacja.exe.config
+C:\Users\Dimon\source\repos\aproksymacja\bin\Debug\aproksymacja.exe
+C:\Users\Dimon\source\repos\aproksymacja\bin\Debug\aproksymacja.pdb
+C:\Users\Dimon\source\repos\aproksymacja\obj\Debug\aproksymacja.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\aproksymacja\obj\Debug\aproksymacja.Form1.resources
+C:\Users\Dimon\source\repos\aproksymacja\obj\Debug\aproksymacja.Properties.Resources.resources
+C:\Users\Dimon\source\repos\aproksymacja\obj\Debug\aproksymacja.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\aproksymacja\obj\Debug\aproksymacja.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\aproksymacja\obj\Debug\aproksymacja.exe
+C:\Users\Dimon\source\repos\aproksymacja\obj\Debug\aproksymacja.pdb
